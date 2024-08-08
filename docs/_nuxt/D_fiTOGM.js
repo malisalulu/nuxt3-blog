@@ -1,0 +1,1 @@
+import{_ as t}from"./pRetCMA3.js";import{_ as a,c as o,b as n,w as c,F as s,a as _,o as r,d}from"./798uiLeW.js";const i={},l=_("div",null,"Index Page",-1);function m(x,f){const e=t;return r(),o(s,null,[l,n(e,{to:"/detail"},{default:c(()=>[d("Detail Page")]),_:1})],64)}const N=a(i,[["render",m]]);export{N as default};
